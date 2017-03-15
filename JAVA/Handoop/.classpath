@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/hadoop/share/hadoop/common/hadoop-common-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/hadoop/share/hadoop/common/hadoop-common-2.7.2-tests.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/hadoop/share/hadoop/common/hadoop-nfs-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-app-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-common-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.7.2-tests.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/jars/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/jars/mysql-connector-java-5.1.17-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
