@@ -1,4 +1,6 @@
-This project is a client/server application where the client is an Android application and the server is based on a Hadoop Infrastructure.
+Description: 
+============
+This project is a client/server application where the client is an Android application and the server is based on a Hadoop Infrastructure. It provides efficient Hadoop Map-Reduce implementations of many scientific computations.
 
 Algorithm and feature: 
 ======================
@@ -53,3 +55,5 @@ Handoop project >  export >  Java > Runnable jar file > OK  (Extract required li
 
 
 Appache should run on the master
+
+For more information feel free to contact me : mhamadelitawi@hotmail.com 
