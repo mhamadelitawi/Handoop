@@ -12,11 +12,10 @@ Grouping and aggregation
 Union
 Intersection
 Difference 
-Sorting
+Sorting 
 Neighbors of Neighbors
 Vector Multiplication
 Matrix Multiplication
-
 
 
 Before running everything : 
