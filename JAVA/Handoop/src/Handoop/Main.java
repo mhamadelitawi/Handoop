@@ -25,7 +25,7 @@ public class Main {
 	static String downloadPath = "/var/www/html/Handoop/download/";
 	static String pathResult = "download/";
 	
-	static String idNexus = "fUg9hKwzYbw:APA91bGCCQ_jHLi8htJqe3pvKXF2MpQWXzZ8B1Y4ILwdmkZh52AiIagxdj4bivmnLtDJPo6rTs1YinSBwIXhCIgh6fhj6fLU6iWv3k24VH77G3wHJecc6duC7NqKMogTILxOdMd_4Llt";
+	static String idNexus = "";
 
 	
 static void insertIntoResults(String guid , String preview , String results)
