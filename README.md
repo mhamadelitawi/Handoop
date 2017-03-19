@@ -3,8 +3,12 @@ Description
 This project is a client/server application where the client is an Android application and the server is based on a Hadoop Infrastructure. It provides efficient Hadoop Map-Reduce implementations of many scientific computations.
 This is a beta version.
 
+Architecture:
+![Handoop Architecture](https://github.com/mhamadelitawi/Handoop/blob/master/architecture.png)
 
-Algorithm and feature 
+
+
+Algorithms and features
 ======================
 * Selection
 * Distinct selection
