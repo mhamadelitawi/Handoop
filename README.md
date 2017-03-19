@@ -1,10 +1,10 @@
-Description: 
+Description 
 ============
 This project is a client/server application where the client is an Android application and the server is based on a Hadoop Infrastructure. It provides efficient Hadoop Map-Reduce implementations of many scientific computations.
 This is a beta version.
 
 
-Algorithm and feature: 
+Algorithm and feature 
 ======================
 * Selection
 * Distinct selection
@@ -17,14 +17,18 @@ Algorithm and feature:
 * Vector Multiplication
 * Matrix Multiplication
 
-Instruction: 
+Instruction 
 ============
-
+Before running everything : 
 1. put your authorization key in : PHP\Handoop\javaphp.php
 2. enter you database username and password : PHP\Handoop\Database.php
 3. verify the path of jar folder needed in your java project (all jar exists in JAVA\jars)
 4. enter you database username and password : JAVA\Handoop\src\Handoop\Database.java
 5. put your google-services.json under Android\Handoop\app
+
+
+Notes : 
+=======
 
 be careful : your appacheshould have the right to activate shell_exec and  run yarn framework (you can change default user of appache)
 
