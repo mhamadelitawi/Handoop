@@ -6,31 +6,31 @@ This is a beta version.
 
 Algorithm and feature: 
 ======================
-Selection
-Distinct selection
-Grouping and aggregation
-Union
-Intersection
-Difference 
-Sorting 
-Neighbors of Neighbors
-Vector Multiplication
-Matrix Multiplication
+* Selection
+* Distinct selection
+* Grouping and aggregation
+* Union
+* Intersection
+* Difference 
+* Sorting 
+* Neighbors of Neighbors
+* Vector Multiplication
+* Matrix Multiplication
 
+Instruction: 
+============
 
-Before running everything : 
-1- put your authorization key in : PHP\Handoop\javaphp.php
-2- enter you database username and password : PHP\Handoop\Database.php
-3- verify the path of jar folder needed in your java project (all jar exists in JAVA\jars)
-4- enter you database username and password : JAVA\Handoop\src\Handoop\Database.java
-5- put your google-services.json under Android\Handoop\app
+1. put your authorization key in : PHP\Handoop\javaphp.php
+2. enter you database username and password : PHP\Handoop\Database.php
+3. verify the path of jar folder needed in your java project (all jar exists in JAVA\jars)
+4. enter you database username and password : JAVA\Handoop\src\Handoop\Database.java
+5. put your google-services.json under Android\Handoop\app
 
-be careful : your appache have the right to activate shell_exec and can run yarn framework (you can change default user of appache)
+be careful : your appacheshould have the right to activate shell_exec and  run yarn framework (you can change default user of appache)
 
 For quick test put folders in "HDFS" in your hdfs
 
-Tested on : 
-Hadoop 2.X
+Tested on : Hadoop 2.X
 
 To activate your cluster : 
 start-dfs.sh
