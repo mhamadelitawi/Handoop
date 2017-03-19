@@ -41,24 +41,29 @@ For quick test put folders in "HDFS" in your hdfs
 
 Tested on : Hadoop 2.X
 
-To activate your cluster : 
-    start-dfs.sh
-    start-yarn.sh
+To activate your cluster :
+```
+start-dfs.sh
+start-yarn.sh
+```
 
-
-To manage database from terminal : 
-    mysql -u username -p
-
+To manage database from terminal :
+```
+mysql -u username -p
+```
 
 Default database : 
-   USE handoop;
-   Tables : fcmid - history
+```
+USE handoop;
+```
+Tables : fcmid - history
 
 
 manage job history : 
-    mr-jobhistory-daemon.sh --config /home/hadoopuser/hadoop start historyserver
-    mr-jobhistory-daemon.sh --config /home/hadoopuser/hadoop stop historyserver
-
+```
+mr-jobhistory-daemon.sh --config /home/hadoopuser/hadoop start historyserver
+mr-jobhistory-daemon.sh --config /home/hadoopuser/hadoop stop historyserver
+```
 
 to build the projet in eclipse :
 Handoop project >  export >  Java > Runnable jar file > OK  (Extract required libraries)
