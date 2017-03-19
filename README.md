@@ -57,6 +57,6 @@ Handoop project >  export >  Java > Runnable jar file > OK  (Extract required li
 
 Appache should run on the master
 
-Hadoop configuration can be found at : https://github.com/mhamadelitawi/Configurations
+Hadoop configuration notes can be found at : https://github.com/mhamadelitawi/Configurations
 
 For more information feel free to contact me : mhamadelitawi@hotmail.com 
