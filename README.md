@@ -35,7 +35,7 @@ Before running everything :
 Notes : 
 =======
 
-be careful : your appacheshould have the right to activate shell_exec and  run yarn framework (you can change default user of appache)
+be careful : your appache should have the right to activate shell_exec and  run yarn framework (you can change default user of appache)
 
 For quick test put folders in "HDFS" in your hdfs
 
