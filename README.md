@@ -4,6 +4,7 @@ This project is a client/server application where the client is an Android appli
 This is a beta version.
 
 Architecture:
+=============
 ![Handoop Architecture](https://github.com/mhamadelitawi/Handoop/blob/master/architecture.png)
 
 
