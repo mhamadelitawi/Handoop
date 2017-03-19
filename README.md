@@ -31,15 +31,19 @@ Before running everything :
 4. enter you database username and password : JAVA\Handoop\src\Handoop\Database.java
 5. put your google-services.json under Android\Handoop\app
 
+Tests
+=======
+Tested on : Hadoop 2.X.
 
-Notes : 
+the cluster was constituted from 3 Vmware machines. The first was the master (and slave in the same time) , and 2 others slaves.
+In this case , port forwarding was managed using Vmware virtual network editor.
+
+Notes
 =======
 
 be careful : your appache should have the right to activate shell_exec and  run yarn framework (you can change default user of appache)
 
 For quick test put folders in "HDFS" in your hdfs
-
-Tested on : Hadoop 2.X
 
 To activate your cluster :
 ```
