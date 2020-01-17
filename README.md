@@ -77,4 +77,4 @@ Appache should run on the master
 
 Hadoop configuration notes can be found at : https://github.com/mhamadelitawi/Configurations
 
-For more information feel free to contact me : mhamadelitawi@hotmail.com 
+For more information feel free to contact me : mhamadelitawi@gmail.com 
